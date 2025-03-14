@@ -1,2 +1,3 @@
-# Cobblemon_Overclocked
-Modified Cobblemon OC - Public Repo
+## Modified Cobblemon - Overclocked!
+
+MC:OC - https://legacy.curseforge.com/minecraft/modpacks/modified-cobblemon-overclocked
